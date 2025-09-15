@@ -108,7 +108,7 @@ FIREFOX_ADDON_ID="{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}"
 
 ## 🔗 관련 링크
 
-- [42 Seoul](https://42seoul.kr/)
+- [42 Gyeongsan](https://42gyeongsan.kr/)
 - [42 Intra](https://intra.42.fr/)
 - [Issues & Feedback](https://github.com/your-username/42time/issues)
 
